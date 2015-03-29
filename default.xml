@@ -519,7 +519,7 @@
   <project path="external/android-visualizer" name="Euphoria-OS/android_external_android-visualizer" remote="Euphoria-OS" revision="lollipop-5.0" />
   <project path="external/ant-wireless/ant_native" name="Euphoria-OS-Legacy/android_external_ant-wireless_ant_native" remote="github" revision="lollipop-5.0" />
   <project path="external/ant-wireless/antradio-library" name="Euphoria-OS-Legacy/android_external_ant-wireless_antradio-library" remote="github" revision="lollipop-5.0" />
-  <project path="external/ant-wireless/ant_service" name="Euphoria-OS-Legacy/android_external_ant-wireless_ant_service" remote="github" revision="lolliplollipop-5.0op" />
+  <project path="external/ant-wireless/ant_service" name="Euphoria-OS-Legacy/android_external_ant-wireless_ant_service" remote="github" revision="lollipop-5.0" />
   <project path="external/bash" name="Euphoria-OS-Legacy/android_external_bash" remote="github" revision="lollipop-5.0" />
   <project path="external/busybox" name="Euphoria-OS-Legacy/android_external_busybox" remote="github" revision="lollipop-5.0" />
   <project path="external/connectivity" name="Euphoria-OS-Legacy/android_external_connectivity" remote="github" revision="lollipop-5.0" />
