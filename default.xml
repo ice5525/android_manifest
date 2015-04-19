@@ -534,6 +534,7 @@
   <project path="external/google" name="Euphoria-OS/android_external_google" remote="Euphoria-OS" revision="lollipop-5.1" />
   <project path="external/libncurses" name="Euphoria-OS-Legacy/android_external_libncurses" remote="github" revision="lollipop-5.1" />
   <project path="external/libphonenumbergoogle" name="Euphoria-OS-Legacy/android_external_libphonenumbergoogle" remote="github" revision="lollipop-5.1" />
+  <project path="external/lz4" name="Euphoria-OS-Legacy/android_external_lz4" remote="github" revision="lollipop-5.1" />
   <project path="external/ntfs-3g" name="Euphoria-OS-Legacy/android_external_ntfs-3g" remote="github" revision="lollipop-5.1" />
   <project path="external/stagefright-plugins" name="Euphoria-OS-Legacy/android_external_stagefright-plugins" remote="github" revision="lollipop-5.1" />
 
