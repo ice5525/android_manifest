@@ -567,4 +567,7 @@
 
   <project path="packages/providers/ThemesProvider" name="Euphoria-OS/android_packages_providers_ThemesProvider" remote="Euphoria-OS" revision="lollipop-5.1" />
 
+  <!-- Cards -->
+  <project path="frameworks/opt/cards" name="Euphoria-OS/android_frameworks_opt_cards" remote="Euphoria-OS" revision="lollipop-5.1" />
+
 </manifest>
