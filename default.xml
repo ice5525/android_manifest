@@ -549,6 +549,7 @@
 
   <!-- CM SDK -->
   <project path="vendor/cmsdk" name="Euphoria-OS-Legacy/cm_platform_sdk" remote="github" revision="lollipop-5.1" />
+  <project path="prebuilts/cmsdk" name="Euphoria-OS-Legacy/android_prebuilts_cmsdk" remote="github" revision="master" />
 
   <!-- Qcom softap -->
   <project path="system/qcom" name="Euphoria-OS-Legacy/android_system_qcom" remote="github" revision="lollipop-5.1" />
